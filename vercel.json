@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://claude.ai/artifact/U6bsvW4agdvqnkJ6Uhn6nS",
+      "permanent": false
+    }
+  ]
+}
